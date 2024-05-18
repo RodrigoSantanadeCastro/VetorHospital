@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\obj\Debug\VetorHospital.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\obj\Debug\VetorHospital.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\bin\Debug\VetorHospital.exe.config
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\bin\Debug\VetorHospital.exe
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\bin\Debug\VetorHospital.pdb
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\obj\Debug\VetorHospital.exe
+C:\Users\Rodrigo\Music\VetorHospital\VetorHospital\VetorHospital\obj\Debug\VetorHospital.pdb
